@@ -5,7 +5,9 @@
 
 ## 전체 흐름
 카메라 노드 
+
 → 검출 노드(YOLO(나사 검출) + teachable machine(나사 종류 분류)) 
+
 → 결과 노드 (openCV(실시간 화면 표시 - 종류 + 개수 + LED 색) + Arduino (LED 제어))
 
 ## 사용 기술
