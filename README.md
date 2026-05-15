@@ -30,7 +30,10 @@
 - teachable machine을 통해 종류별 나사 라벨링 (나사 종류별 검출 정확도가 떨어짐 - 밝기에 따른 추가 라벨링 필요)
 - Arduino LED 연동 (나사 종류별 Led ON)
 
-### 5-15 진행 예정
-- Teachable machine을 통한 밝기별 라벨링 추가
+### 05-15
 - openCV를 통한 실시간 화면 표시(종류 + 개수 + LED 색)
+- ros 노드 연결(카메라, 검출, 결과)
 
+### 05-20 진행 계획
+- 밝기에 따른 teachable machine 라벨링 추가
+- 현재(05-15) vmware 카메라 연결 실패 문제 해결
